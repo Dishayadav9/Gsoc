@@ -36,6 +36,8 @@ Typescript, javascript, Node.js, Docker, MongoDB, Redis, Algolia, Mocha, Gitlab 
         ```
         sudo apt-get install fontforge ttfautohint
         ```
+        
+        
     - Install Visual Studio
     https://linuxize.com/post/how-to-install-visual-studio-code-on-ubuntu-18-04/
     - Install MongoDB: 
