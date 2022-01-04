@@ -2,6 +2,8 @@
 Enhancing Backend and introduction of new features for EOS icons
 ## Eos-icon picker
 [Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+![Screenshot from 2022-01-04 19-10-53](https://user-images.githubusercontent.com/94596249/148072612-edb81ce9-470b-46fd-9e1d-b383ebf90fdc.png)
+
 
 ### | Main changes:
 The code got refactored/re-written in typescript.
