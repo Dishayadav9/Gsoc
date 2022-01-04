@@ -3,10 +3,6 @@ Enhancing Backend and introduction of new features for EOS icons
 ## Eos-icon picker
 [Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
-
-[!![Screenshot from 2022-01-04 19-10-53](https://user-images.githubusercontent.com/94596249/148067782-ab34b32e-a475-4a80-b91b-de780555a154.png)
-
-
 ### | Main changes:
 The code got refactored/re-written in typescript.
 The system is now depending on the Mongo database as main source of truth.
@@ -35,9 +31,7 @@ Typescript, javascript, Node.js, Docker, MongoDB, Redis, Algolia, Mocha, Gitlab 
       - On Linux: 
         ```
         sudo apt-get install fontforge ttfautohint
-        ```
-        
-        
+        ``` 
     - Install Visual Studio
     https://linuxize.com/post/how-to-install-visual-studio-code-on-ubuntu-18-04/
     - Install MongoDB: 
