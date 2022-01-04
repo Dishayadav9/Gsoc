@@ -1,7 +1,11 @@
 # Eos-icons
 Enhancing Backend and introduction of new features for EOS icons
-# Eos-icon picker
-[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+## Eos-icon picker
+[Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+
+
+[!![Screenshot from 2022-01-04 19-10-53](https://user-images.githubusercontent.com/94596249/148067782-ab34b32e-a475-4a80-b91b-de780555a154.png)
+
 
 ### | Main changes:
 The code got refactored/re-written in typescript.
@@ -26,7 +30,8 @@ Typescript, javascript, Node.js, Docker, MongoDB, Redis, Algolia, Mocha, Gitlab 
 
 ## Installations:
   **Steps to Follow**
-   Install the required python dependencies:
+   Install the required python dependencies:![148067782-ab34b32e-a475-4a80-b91b-de780555a154](https://user-images.githubusercontent.com/94596249/148068046-a81d5695-9d28-4672-a250-a06c1ed78ce9.png)
+
       - On Linux: 
         ```
         sudo apt-get install fontforge ttfautohint
