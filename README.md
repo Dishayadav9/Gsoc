@@ -30,7 +30,7 @@ Typescript, javascript, Node.js, Docker, MongoDB, Redis, Algolia, Mocha, Gitlab 
 
 ## Installations:
   **Steps to Follow**
-   Install the required python dependencies:![148067782-ab34b32e-a475-4a80-b91b-de780555a154](https://user-images.githubusercontent.com/94596249/148068046-a81d5695-9d28-4672-a250-a06c1ed78ce9.png)
+   Install the required python dependencies:
 
       - On Linux: 
         ```
