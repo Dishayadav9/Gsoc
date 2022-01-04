@@ -32,13 +32,14 @@ Typescript, javascript, Node.js, Docker, MongoDB, Redis, Algolia, Mocha, Gitlab 
         ```
         sudo apt-get install fontforge ttfautohint
         ``` 
-    - Install Visual Studio
-    https://linuxize.com/post/how-to-install-visual-studio-code-on-ubuntu-18-04/
-    - Install MongoDB: 
-    https://linuxize.com/post/how-to-install-mongodb-on-ubuntu-20-04/
-    https://www.youtube.com/watch?v=WH5GgHaEy7E&t=46s
+  
    - Install MongoDB Compass:
     https://www.how2shout.com/linux/install-mongodb-compass-gui-in-ubuntu-20-04-lts-linux/
+   - Install Visual Studio
+    https://linuxize.com/post/how-to-install-visual-studio-code-on-ubuntu-18-04/
+   - Install MongoDB: 
+    https://linuxize.com/post/how-to-install-mongodb-on-ubuntu-20-04/
+    https://www.youtube.com/watch?v=WH5GgHaEy7E&t=46s
    - Install Redis: 
     https://redis.io/download
     https://www.youtube.com/watch?v=gNPgaBugCWk
