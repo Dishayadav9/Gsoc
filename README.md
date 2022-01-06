@@ -24,7 +24,7 @@ git clone https://github.com/EOS-uiux-Solutions/eos-icons-api
 
 
 ### | Technologies used in project:
-Typescript, javascript, Node.js, Docker, MongoDB, Redis, Algolia, Mocha, Gitlab hooks, Github workflows.
+Typescript, javascript,Node.js, Docker, MongoDB, Redis, Algolia, Mocha, Gitlab hooks, Github workflows.
 
 ## Installations:
   **Steps to Follow**
